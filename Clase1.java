@@ -8,7 +8,7 @@ public class Clase1 {
         int metodo= P.nextInt();
         System.out.println("Introduzca su primer numero: ");
         int x = P.nextInt();
-        System.out.println("Introduce el segundo numero que quieras sumar: ");
+        System.out.println("Introduzca su segundo numero: ");
         int v = P.nextInt();
         if (metodo==1) {
             System.out.println("Tu suma da: " + (x+v));
